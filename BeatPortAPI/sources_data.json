@@ -1,0 +1,139 @@
+{
+  "source": [
+    {
+      "genre": "MAIN",
+      "website": "https://www.beatport.com/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-main/"
+    },
+    {
+      "genre": "140 / DEEP DUBSTEP / GRIME",
+      "website": "https://www.beatport.com/genre/140-deep-dubstep-grime/95/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-140-deep-dubstep-grime/"
+    },
+    {
+      "genre": "AFRO HOUSE",
+      "website": "https://www.beatport.com/genre/afro-house/89/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-afro-house/"
+    },
+    {
+      "genre": "BASS / CLUB",
+      "website": "https://www.beatport.com/genre/bass-club/85/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-bass-club/"
+    },
+    {
+      "genre": "BASS / HOUSE",
+      "website": "https://www.beatport.com/genre/bass-house/91/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-bass-house/"
+    },
+    {
+      "genre": "BREAKS / BREAKBEAT / UK BASS",
+      "website": "https://www.beatport.com/genre/breaks-breakbeat-uk-bass/9/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-breaks-breakbeat-uk-bass/"
+    },
+    {
+      "genre": "DANCE / ELECTRO POP",
+      "website": "https://www.beatport.com/genre/dance-electro-pop/39/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-dance-electro-pop/"
+    },
+    {
+      "genre": "DEEP HOUSE",
+      "website": "https://www.beatport.com/genre/deep-house/12/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-deep-house/"
+    },
+    {
+      "genre": "DJ TOOLS",
+      "website": "https://www.beatport.com/genre/dj-tools/16/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-dj-tools/"
+    },
+    {
+      "genre": "DRUM & BASS",
+      "website": "https://www.beatport.com/genre/drum-bass/1/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-drum-bass/"
+    },
+    {
+      "genre": "DUBSTEP",
+      "website": "https://www.beatport.com/genre/dubstep/18/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-dubstep/"
+    },
+    {
+      "genre": "ELECTRO (CLASSIC / DETROIT / MODERN)",
+      "website": "https://www.beatport.com/genre/electro-classic-detroit-modern/94/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-electro-classic-detroit-modern/"
+    },
+    {
+      "genre": "ELECTRONICA",
+      "website": "https://www.beatport.com/genre/electronica/3/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-electronica/"
+    },
+    {
+      "genre": "FUNKY HOUSE",
+      "website": "https://www.beatport.com/genre/funky-house/81/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-funky-house/"
+    },
+    {
+      "genre": "HARD DANCE / HARDCORE",
+      "website": "https://www.beatport.com/genre/hard-dance-hardcore/8/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-hard-dance-hardcore/"
+    },
+    {
+      "genre": "HARD TECHNO",
+      "website": "https://www.beatport.com/genre/hard-techno/2/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-hard-techno/"
+    },
+    {
+      "genre": "HOUSE",
+      "website": "https://www.beatport.com/genre/house/5/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-house/"
+    },
+    {
+      "genre": "INDIE DANCE",
+      "website": "https://www.beatport.com/genre/indie-dance/37/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-indie-dance/"
+    },
+    {
+      "genre": "JACKIN HOUSE",
+      "website": "https://www.beatport.com/genre/jackin-house/97/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-jackin-house/"
+    },
+    {
+      "genre": "MAINSTAGE",
+      "website": "https://www.beatport.com/genre/mainstage/96/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-mainstage/"
+    },
+    {
+      "genre": "MELODIC HOUSE & TECHNO",
+      "website": "https://www.beatport.com/genre/melodic-house-techno/90/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-melodic-house-techno/"
+    },
+    {
+      "genre": "MINIMAL / DEEP TECH",
+      "website": "https://www.beatport.com/genre/minimal-deep-tech/14/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-minimal-deep-tech/"
+    },
+    {
+      "genre": "ORGANIC HOUSE / DOWNTEMPO",
+      "website": "https://www.beatport.com/genre/organic-house-downtempo/93/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-organic-house-downtempo/"
+    },
+    {
+      "genre": "PROGRESSIVE HOUSE",
+      "website": "https://www.beatport.com/genre/progressive-house/15/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-progressive-house/"
+    },
+    {
+      "genre": "PSY-TRANCE",
+      "website": "https://www.beatport.com/genre/psy-trance/13/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-psy-trance/"
+    },
+    {
+      "genre": "TECH HOUSE",
+      "website": "https://www.beatport.com/genre/tech-house/11/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-tech-house/"
+    },
+    {
+      "genre": "TECHNO (PEAK TIME / DRIVING)",
+      "website": "https://www.beatport.com/genre/techno-peak-time-driving/6/top-100",
+      "api": "https://beatportapi.herokuapp.com/api/beatport-top100-techno-peak-time-driving/"
+    }
+  ]
+}
