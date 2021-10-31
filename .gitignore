@@ -1,11 +1,11 @@
-### Django ###
+#Django
 *.log
 *.pot
 *.pyc
 __pycache__/
 db.sqlite3
 
-# Environments
+#Environments
 .env
 .venv
 env/
@@ -14,7 +14,7 @@ ENV/
 env.bak/
 venv.bak/
 
-# If you are using PyCharm #
+#If you are using PyCharm
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
